@@ -3,9 +3,9 @@ Tools for creating a Pumpkin Spice Latte mask
 
 ## Usage
 
-1. Project [template image](https://user-images.githubusercontent.com/186277/32137822-40bc0824-bbf5-11e7-9956-4259da6142c0.png) onto sturdy, cut/slice-able material like foam core.
+1. Project [template image](https://user-images.githubusercontent.com/186277/32137899-a8582ea8-bbf6-11e7-9990-a019d67fe4d9.png) onto sturdy, cut/slice-able material like foam core.
 
-![Template image](https://user-images.githubusercontent.com/186277/32137822-40bc0824-bbf5-11e7-9956-4259da6142c0.png)
+![Template image](https://user-images.githubusercontent.com/186277/32137899-a8582ea8-bbf6-11e7-9990-a019d67fe4d9.png)
 
 2. Use heavy duty green and brown markers to trace the projection onto the base material.
 
